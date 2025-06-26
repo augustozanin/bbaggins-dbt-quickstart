@@ -22,7 +22,7 @@ sources:
           freshness:
             loaded_at_field: "_etl_loaded_at"
             error_after:
-              count: 1
+              count: 2
               period: hour
             warn_after:
               count: 2
