@@ -24,7 +24,7 @@ sources:
                 period: hour
               warn_after:
                 count: 2
-                period: hour
+                period: minute
             
 
           
